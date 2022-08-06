@@ -17,7 +17,6 @@
             }
         }
 
-
         /** Validation **/
         if(isset($_POST['valid'])){
             $_SESSION['payload']        = $_POST['payload'];

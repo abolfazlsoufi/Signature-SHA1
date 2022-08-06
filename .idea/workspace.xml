@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b57495e-0ff5-4060-a4ea-42815f1e7712" name="Changes" comment="Updated Signature Project&#10;In Date: 1401/05/8&#10;By: A.Soufi">
+    <list default="true" id="0b57495e-0ff5-4060-a4ea-42815f1e7712" name="Changes" comment="Final Signature Project&#10;In Date: 1401/05/15&#10;By: A.Soufi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,7 @@
       <workItem from="1658918284741" duration="3920000" />
       <workItem from="1659163892000" duration="590000" />
       <workItem from="1659170049213" duration="6124000" />
-      <workItem from="1659762046807" duration="152000" />
+      <workItem from="1659762046807" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="signature">
       <created>1658839304183</created>
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659762101141</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final Signature Project&#10;In Date: 1401/05/15&#10;By: A.Soufi">
+      <created>1659762349796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659762349796</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="signature" />
     <MESSAGE value="Updated Signature Project&#10;In Date: 1401/05/8&#10;By: A.Soufi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Signature Project&#10;In Date: 1401/05/8&#10;By: A.Soufi" />
+    <MESSAGE value="Final Signature Project&#10;In Date: 1401/05/15&#10;By: A.Soufi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Signature Project&#10;In Date: 1401/05/15&#10;By: A.Soufi" />
   </component>
 </project>
